@@ -4,3 +4,7 @@ I was tasked to combine three data sources to create one database. The three sou
 -	Website: https://www.totalwine.com/ - Has reviews on liquor and the price of liquor today
 - API: https://www.thecocktaildb.com/api.php?ref=apilist.fun - Cocktail recipes that includes up to 15 ingredients. 
 -	Flat File - https://www.kaggle.com/schmidtpalexander/worlds-largest-liquor-store-product-list - Includes Price of alcohol (Price per litter),	Name of Alcohol,	Product Group,	Type, and Style
+
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/54515596/107891310-610ff780-6ee3-11eb-8dd0-6b3bee8e5553.png" width ="700">
+</p>
